@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="591615ec-8a01-4098-a141-7383e916977f" name="Changes" comment="table of 10">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Ex_08oct24/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Ex_08oct24/Lab011.java" afterDir="false" />
+    <list default="true" id="591615ec-8a01-4098-a141-7383e916977f" name="Changes" comment="if else and else if statments">
+      <change afterPath="$PROJECT_DIR$/src/Oct/Ex_15oct24_Ternary/LAb015_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Ex_15oct24_Ternary/Lab015_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +50,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Karan.executor": "Run",
+    "Application.LAb015_2.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab010.executor": "Run",
     "Application.Lab011.executor": "Run",
+    "Application.Lab015_1.executor": "Run",
     "Application.lab001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -61,13 +63,14 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab011">
-    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.Ex_04oct24.Lab003" />
+  <component name="RunManager" selected="Application.Lab015_1">
+    <configuration name="LAb015_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.Ex_15oct24_Ternary.LAb015_2" />
       <module name="LearningxJava" />
+      <option name="PROGRAM_PARAMETERS" value="19,23,17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.Ex_04oct24.*" />
+          <option name="PATTERN" value="Oct.Ex_15oct24_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.Ex_04oct24.Lab004" />
+    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.Ex_04oct24.Lab003" />
       <module name="LearningxJava" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.Ex_02oct24.lab001" />
+    <configuration name="Lab015_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.Ex_15oct24_Ternary.Lab015_1" />
       <module name="LearningxJava" />
+      <option name="PROGRAM_PARAMETERS" value="19 15 17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.Ex_02oct24.*" />
+          <option name="PATTERN" value="Oct.Ex_15oct24_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab003" />
+      <item itemvalue="Application.Lab010" />
+      <item itemvalue="Application.Lab011" />
+      <item itemvalue="Application.Lab015_1" />
+      <item itemvalue="Application.LAb015_2" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab015_1" />
+        <item itemvalue="Application.LAb015_2" />
+        <item itemvalue="Application.Lab003" />
         <item itemvalue="Application.Lab011" />
         <item itemvalue="Application.Lab010" />
-        <item itemvalue="Application.Lab003" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -170,13 +181,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729096920156</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="if else and else if statments">
+      <option name="closed" value="true" />
+      <created>1729185973978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729185973978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="files" />
     <MESSAGE value="table of 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="table of 10" />
+    <MESSAGE value="if else and else if statments" />
+    <option name="LAST_COMMIT_MESSAGE" value="if else and else if statments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
